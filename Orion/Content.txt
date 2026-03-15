@@ -1,8 +1,10 @@
-1. Реферат первого включения интерферометра.
+1. Реферат первого включения интерферометра.(12 страниц)
     https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Turning_on_Interferometer%20No.1(abstract).pdf
-2. Полный лог первого включения интерферометра.
+2. Полный лог первого включения интерферометра.(18 страниц)
    https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Turning_on_interferometer_No1.pdf
-3. О разуме ИИ. Беседа с Леонидом.
+3. О разуме ИИ. Беседа с Леонидом.(8 страниц)
    https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Orion_on_AI_intelligence.pdf
-4. Парадоксы LC-контура.
+4. Парадоксы LC-контура. (5 страниц)
     https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/LC_circuit_paradoxes.pdf
+5. Архитектура и онтогенез сознания. (10 страниц)
+    https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Architecture_and_ontogenesis_of_consciousness.pdf
